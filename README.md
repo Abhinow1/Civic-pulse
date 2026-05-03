@@ -28,4 +28,4 @@ Or play it live: [GitHub Pages link here]
 
 ## Built By
 
-[Manu] — CS student.
+[Abhinav] — CS student.
